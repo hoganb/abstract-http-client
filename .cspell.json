@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/master/cspell.schema.json",
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "awcache",
+    "backoff",
+    "dbaeumer",
+    "eamodio",
+    "esbenp",
+    "lcov",
+    "npmjs",
+    "orta",
+    "ryanluker",
+    "tsbuildinfo"
+  ]
+}

@@ -1,0 +1,11 @@
+.DS_STORE
+/node_modules
+/.idea
+/.awcache
+/reports
+/logs
+.env
+*.tsbuildinfo
+
+# stryker temp files
+stryker-tmp

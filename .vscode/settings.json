@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "jest.jestCommandLine": "./node_modules/.bin/jest --config ./jest.config.js --colors"
+}
